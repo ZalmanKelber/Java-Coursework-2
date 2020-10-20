@@ -8,4 +8,8 @@ Completed thus far:
 
 * CaesarCipher and CaesarCipherTwo
 
-* ObjectOrientedCaesarCipher 
+* ObjectOrientedCaesarCipher
+
+* WordCounter and GladLibs
+
+* Vigenere Cipher
