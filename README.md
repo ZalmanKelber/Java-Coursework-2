@@ -12,4 +12,6 @@ Completed thus far:
 
 * WordCounter and GladLibs
 
+* WebLog Reader (note: WebLogParser.java provided by course)
+
 * Vigenere Cipher
